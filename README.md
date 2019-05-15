@@ -7,3 +7,17 @@
 :ballot_box_with_check: Réalisation d’une interface web utilisateur<br>
 :ballot_box_with_check: Création d’un smart contract<br>
 :ballot_box_with_check: Création d’un objet connecté<br>
+
+## Outils technologiques
+**FRONT END**
+
+:black_medium_square: Angular (version 7.3.5)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: TypeScript<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: HTML / SCSS<br>
+:black_medium_square: MDB Angular
+
+**BACK END**
+
+:black_medium_square: Nodes<br>
+:black_medium_square: Solidity<br>
+:black_medium_square: Web3<br>
